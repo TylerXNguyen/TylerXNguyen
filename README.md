@@ -1,4 +1,4 @@
-### Hi I'm Tyler 👋
+## 👨🏻‍💻 [Tyler Nguyen](my-personal-project-d5615.stackbit.app/)
 
 
 - 🔭 I’m currently working on ... Data Analysis Projects
@@ -9,8 +9,6 @@
 - 📫 How to reach me: ... Linkedin
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I learned how to juggle in 6th grade
-
-# 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tylerxnguyen/)](https://www.linkedin.com/in/tylerxnguyen/)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/TylerXNguyen/)
