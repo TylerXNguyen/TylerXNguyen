@@ -13,7 +13,6 @@
 - ⚡ Fun fact: ... I learned how to juggle in 6th grade
 
 
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tylerxnguyen/)](https://www.linkedin.com/in/tylerxnguyen/)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/TylerXNguyen/)
 <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
@@ -30,7 +29,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Project1](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Project1](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![Project2](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![Project3](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![Project4](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![Project1](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/www) [![Project2](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
