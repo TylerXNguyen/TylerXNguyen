@@ -1,6 +1,6 @@
 # Hi, I'm Tyler! 👋
 
-## 👨🏻‍💻 [My Personal Website]()
+## 👨🏻‍💻
 
 
 - 🔭 I’m currently working on ... Data Analysis Projects
